@@ -20,7 +20,7 @@ The SQL workflow includes:
 
 ## Tools
 
-SQL · SQLite · Looker Studio · Google Sheets
+SQL · Looker Studio · Google Sheets
 
 ## Data Privacy
 
